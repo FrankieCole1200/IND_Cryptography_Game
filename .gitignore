@@ -1,0 +1,18 @@
+
+# Compiled C++ executables
+*.exe
+*.o
+*.obj
+*.out
+
+# Build directories
+build/
+debug/
+release/
+
+# VS Code local configuration
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
