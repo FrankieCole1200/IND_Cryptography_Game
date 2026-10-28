@@ -1,0 +1,28 @@
+.site-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+
+  background-color: #18181b;
+  border-bottom: 1px solid #33333a;
+  padding: 20px 40px;
+}
+
+.logo-link {
+  display: flex;
+  align-items: center;
+}
+
+.site-logo {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+}
+
+.site-title {
+  margin: 0;
+  color: white;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
